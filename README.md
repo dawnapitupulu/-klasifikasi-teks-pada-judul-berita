@@ -1,2 +1,2 @@
-# -klasifikasi-teks-pada-judul-berita
+# -klasifikasi-teks-pada-judul-berita-menggunakan-metode-NBC
 Proyek Mata Kuliah PBA
